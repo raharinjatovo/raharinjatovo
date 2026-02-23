@@ -24,3 +24,44 @@ Hey, Im Full stack developer, apreciate Javascript, PHP, Nextjs, Wordpress, Lara
 ### Socials
 
 <p align="left"> <a href="https://www.facebook.com/mbola.rahari" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/raharinjatovo" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a></p>
+
+### Projects
+
+| Project | Language | Description |
+|---------|----------|-------------|
+| [n8n-mcp](https://github.com/raharinjatovo/n8n-mcp) | — | — |
+| [Php-Nodejs-Messenger-chatbot](https://github.com/raharinjatovo/Php-Nodejs-Messenger-chatbot) | JavaScript | — |
+| [node-js-messenger-chatbot-async](https://github.com/raharinjatovo/node-js-messenger-chatbot-async) | JavaScript | — |
+| [Messenger-chatbot-node-js](https://github.com/raharinjatovo/Messenger-chatbot-node-js) | JavaScript | — |
+| [next-starter-all](https://github.com/raharinjatovo/next-starter-all) | TypeScript | — |
+| [github-activity](https://github.com/raharinjatovo/github-activity) | JavaScript | — |
+| [github-activity-extra](https://github.com/raharinjatovo/github-activity-extra) | JavaScript | — |
+| [qr_code_android](https://github.com/raharinjatovo/qr_code_android) | Java | — |
+| [create-checkbox-dinamicaly](https://github.com/raharinjatovo/create-checkbox-dinamicaly) | — | — |
+| [link-sharer](https://github.com/raharinjatovo/link-sharer) | — | share your web page link to popular plateforms |
+| [link-sharer-to-plateform](https://github.com/raharinjatovo/link-sharer-to-plateform) | PHP | — |
+| [task-tracker](https://github.com/raharinjatovo/task-tracker) | JavaScript | — |
+| [C-Mysql-project](https://github.com/raharinjatovo/C-Mysql-project) | TSQL | for antonia |
+| [scrapping_yahoo_search](https://github.com/raharinjatovo/scrapping_yahoo_search) | PHP | — |
+| [fiscofid-email](https://github.com/raharinjatovo/fiscofid-email) | HTML | — |
+| [raharinjatovo.github.io](https://github.com/raharinjatovo/raharinjatovo.github.io) | HTML | — |
+| [snake-game](https://github.com/raharinjatovo/snake-game) | CSS | — |
+| [project](https://github.com/raharinjatovo/project) | TypeScript | — |
+| [webpage-link-sharer](https://github.com/raharinjatovo/webpage-link-sharer) | PHP | share your webpage link to popular platform |
+| [repos](https://github.com/raharinjatovo/repos) | C++ | — |
+| [node-starter](https://github.com/raharinjatovo/node-starter) | CSS | — |
+| [scrapping-vozona-gasy](https://github.com/raharinjatovo/scrapping-vozona-gasy) | JavaScript | — |
+| [gemini](https://github.com/raharinjatovo/gemini) | — | — |
+| [docs](https://github.com/raharinjatovo/docs) | MDX | — |
+| [php---dezip-file-read-xml-get-atribute-type](https://github.com/raharinjatovo/php---dezip-file-read-xml-get-atribute-type) | PHP | — |
+| [scrapping_google](https://github.com/raharinjatovo/scrapping_google) | PHP | — |
+| [gemini-api](https://github.com/raharinjatovo/gemini-api) | JavaScript | — |
+| [ny-baiboly](https://github.com/raharinjatovo/ny-baiboly) | TypeScript | — |
+| [script](https://github.com/raharinjatovo/script) | JavaScript | — |
+| [mbolatiana.github.io](https://github.com/raharinjatovo/mbolatiana.github.io) | HTML | — |
+| [scrapping-yt](https://github.com/raharinjatovo/scrapping-yt) | PHP | — |
+| [python-selenium-search-lirics-adv](https://github.com/raharinjatovo/python-selenium-search-lirics-adv) | Python | — |
+| [oasis_script](https://github.com/raharinjatovo/oasis_script) | PHP | — |
+| [scrapping-azovy](https://github.com/raharinjatovo/scrapping-azovy) | JavaScript | — |
+| [dev_images](https://github.com/raharinjatovo/dev_images) | — | — |
+| [CI-4-select](https://github.com/raharinjatovo/CI-4-select) | PHP | CI Select |
